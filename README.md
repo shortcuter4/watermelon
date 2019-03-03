@@ -1,5 +1,5 @@
-# CS315 Project - Watermelon
-A project for Programming Languages course 
+# Watermelon
+A course project for Programming Languages course - CS315
 ## Group Members
 * Subhan Ibrahimli
 * Cavid Gayıblı
