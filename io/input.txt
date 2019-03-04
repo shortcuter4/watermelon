@@ -1,0 +1,20 @@
+letsroll() {
+int i = 5
+
+string = "Hello"
+
+int number
+
+for (int a = 5 ; a < 10 ; a = a + 1) {
+a = a + 1
+number = a
+}
+
+if(number < 15) {
+number = number + number
+}
+
+}
+
+
+
