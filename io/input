@@ -1,0 +1,65 @@
+letsroll() {
+
+int x = 5 $ declaration statement
+int change = 0
+int z = 3
+int y = 4
+
+int getX() {
+return x
+}
+
+void getY(){
+return y
+}
+
+void setX(int y) {
+x = y $ assignment statement
+}
+
+int changeZ(int num){
+z = num
+}
+
+constant int total = 100
+
+int x2 = getX() $getting x value
+
+setX(x2) $setting x value
+
+string text2 = "Hello" $ String assignment statement
+
+int number $ declaration statement without a value
+
+for (int a = 5: a < 10: a = a + 1) {
+a = a + 1
+number = a
+}
+
+if(number < 15) {
+number = number + number
+}
+
+int a = 1
+
+int b = 0
+
+int c = ~b $ Declaration statement with a value that has a negation symbol
+int d = a&b $ Declaration statement with a conjuction expression
+int e = a||b $ Declaration statement with a disjunction expression
+int f = a->b $ Declaration statement with a implication expression
+int g = a<->b $ Declaration statement with a double_implication expression
+int h = a#b $ Declaration statement with a exclusive_or expression
+
+int i = 4
+
+while(i > 5) {
+number = number + 10
+}
+
+string text $ string declaration
+
+import text $ input statement
+
+print(text) $ output statement
+}
